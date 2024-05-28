@@ -8,6 +8,8 @@ CONFIGURATIONS:
 -Add Selenium Dependency in POM.xml file
 -Download the ChromeDriver from the official site and place it in a known location.
 
+LoginTest.java is the script which performs given task,supported by pom.xml file
+
 Task- Automate a Simple Web Login Test. 
 Instructions:- Demo website that has a login page(https://app.logyxps.com/)
 Automate test script using Selenium WebDriver in Java. This script performs:
