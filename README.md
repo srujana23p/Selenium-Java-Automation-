@@ -1,14 +1,14 @@
 # Selenium-Java-Automation-
--IDE: VS CODE
--Dependencies: Selenium
--CONFIGURATIONS:
-Install the JDK appropriate for your operating system.Set Up Environment Variables.Verify the Installation.
-Install Maven and ensure Maven is added to your system's PATH.
+IDE: VS CODE. 
+Dependencies: Selenium. 
+CONFIGURATIONS:
+-Install the JDK appropriate for your operating system.Set Up Environment Variables.Verify the Installation.
+-Install Maven and ensure Maven is added to your system's PATH.
 -In VS CODE, Create a new Maven Project
 -Add Selenium Dependency in POM.xml file
 -Download the ChromeDriver from the official site and place it in a known location.
 
-Task- Automate a Simple Web Login Test
+Task- Automate a Simple Web Login Test. 
 Instructions:- Demo website that has a login page(https://app.logyxps.com/)
 Automate test script using Selenium WebDriver in Java. This script performs:
  1. Open the web browser and navigate to the login page.
