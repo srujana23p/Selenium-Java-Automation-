@@ -1,5 +1,5 @@
 # Selenium-Java-Automation-
-LoginTest.java is the script file which performs given task successfully,supported by pom.xml file
+LoginTest.java is the script file which performs given task successfully,supported by pom.xml file. 
 I have written this script file using selenium webdriver with java only(Based on the instructions in assessment),the task involves testing Login scenario of a demo webpage.
 
 Other Approach: The script can also be written in Page Object Model using junit/testng framweorks.
